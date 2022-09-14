@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Klebert-01
 - 👀 I’m interested in C# .NET
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C# .NET
+- 💞️ I’m looking to collaborate on C# .NET
 - 📫 How to reach me ...
 
 <!---
